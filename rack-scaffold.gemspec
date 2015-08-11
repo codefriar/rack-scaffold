@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.add_dependency "rack", "~> 1.4"
   s.add_dependency "rack-contrib", "~> 1.1"
   s.add_dependency "sinatra", "~> 1.4"
-  s.add_dependency "sinatra-contrib", "~> 1.4"
+  s.add_dependency "sinatra-contrib", "~> 1.4.0"
   s.add_dependency "sinatra-param", "~> 1.4"
   s.add_dependency "activesupport", ">= 3.0"
 
